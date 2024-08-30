@@ -19,6 +19,7 @@ Proyek ini bertujuan untuk menganalisis data penggunaan layanan bike sharing dan
 ### Persyaratan
 - Python 3.x
 - Pustaka yang dibutuhkan: pandas, numpy, scikit-learn, seaborn, matplotlib, XGBoost, LightGBM, SHAP, dan lain-lain.
+
 Cara Menjalankan
 1. Clone repositori ini.
 2. Instal dependensi menggunakan pip install -r requirements.txt.
